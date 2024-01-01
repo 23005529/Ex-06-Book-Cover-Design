@@ -1,4 +1,4 @@
-# Ex-06-Book-Cover-Design
+# Ex-08-Book-Cover-Design
 NAME : ALIYA SHEEMA 
 
 REFERENCE NUMBER : 23005529
